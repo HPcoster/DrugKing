@@ -1,59 +1,60 @@
 Privacy Policy
-Yusuke Ishino built the クスリ王 app as a Free app. This SERVICE is provided by Yusuke Ishino at no cost and is intended for use as is.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+YusukeIshinoは、クスリ王アプリを無料アプリとして作成しました。このサービスはYusukeIshinoによって無料で提供されており、そのまま使用することを目的としています。
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+このページは、誰かが私のサービスを使用することを決めた場合に、個人情報の収集、使用、開示に関する私のポリシーについて訪問者に知らせるために使用されます。
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at クスリ王 unless otherwise defined in this Privacy Policy.
+私のサービスを使用することを選択した場合、このポリシーに関連する情報の収集と使用に同意します。私が収集する個人情報は、サービスの提供と改善に使用されます。このプライバシーポリシーに記載されている場合を除き、お客様の情報を使用したり、他人と共有したりすることはありません。
 
-Information Collection and Use
+このプライバシーポリシーで使用される用語は、このプライバシーポリシーで別途定義されていない限り、クスリ王からアクセスできる利用規約と同じ意味を持っています。
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+情報の収集と使用
 
-The app does use third party services that may collect information used to identify you.
+より良い体験のために、サービスを使用している間、特定の個人情報を提供するようにあなたに要求する場合があります。私が要求する情報はあなたのデバイスに保存され、いかなる方法でも収集されません。
 
-Link to privacy policy of third party service providers used by the app
+アプリは、あなたを識別するために使用される情報を収集する可能性のあるサードパーティのサービスを使用します。
 
-Google Play Services
-Log Data
+アプリで使用されるサードパーティのサービスプロバイダーのプライバシーポリシーへのリンク
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+AdMob
+ログデータ
 
-Cookies
+私のサービスを使用するたびに、アプリでエラーが発生した場合、電話でLog Dataというデータと情報を（サードパーティ製品を通じて）収集します。このログデータには、デバイスのインターネットプロトコル（「IP」）アドレス、デバイス名、オペレーティングシステムのバージョン、サービスを利用する際のアプリの構成、サービスの使用日時、その他の統計などの情報が含まれる場合があります。
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+クッキー
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Cookieは、匿名の一意の識別子として一般的に使用される少量のデータを含むファイルです。これらは、アクセスしたWebサイトからブラウザに送信され、デバイスの内部メモリに保存されます。
 
-Service Providers
+このサービスはこれらの「Cookie」を明示的に使用しません。ただし、アプリは情報を収集してサービスを改善するために「Cookie」を使用するサードパーティのコードとライブラリを使用する場合があります。これらのCookieを受け入れるか拒否し、Cookieがいつデバイスに送信されるかを知るオプションがあります。クッキーを拒否することを選択した場合、このサービスの一部を使用できない場合があります。
 
-I may employ third-party companies and individuals due to the following reasons:
+サービスプロバイダー
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+次の理由により、サードパーティの企業や個人を雇用する場合があります。
 
-Security
+当社のサービスを促進するため。
+当社に代わってサービスを提供するため。
+サービス関連のサービスを実行するには;または
+サービスの使用方法の分析を支援するため。
+これらの第三者があなたの個人情報にアクセスできることをこのサービスのユーザーに通知したいと思います。その理由は、私たちに代わって割り当てられたタスクを実行するためです。ただし、他の目的で情報を開示または使用しないことが義務付けられています。
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+セキュリティ
 
-Links to Other Sites
+個人情報の提供に対するお客様の信頼を大切にしています。したがって、商業的に許容される保護手段を使用して保護するよう努めています。しかし、インターネットを介した伝送方法、または電子ストレージの方法が100％安全で信頼できるものではないことを忘れないでください。絶対的なセキュリティを保証することはできません。
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+他のサイトへのリンク
 
-Children’s Privacy
+このサービスには、他のサイトへのリンクが含まれている場合があります。サードパーティのリンクをクリックすると、そのサイトに移動します。これらの外部サイトは私によって運営されていないことに注意してください。したがって、これらのWebサイトのプライバシーポリシーを確認することを強くお勧めします。私は、サードパーティのサイトまたはサービスのコンテンツ、プライバシーポリシー、または慣行を管理しておらず、責任を負いません。
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+子どものプライバシー
 
-Changes to This Privacy Policy
+これらのサービスは13歳未満の人には対応していません。13歳未満の子供から個人を特定できる情報を意図的に収集することはありません。あなたが親または保護者であり、あなたの子供が私たちに個人情報を提供したことを知っている場合、私に連絡して必要な行動をとることができます。
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+このプライバシーポリシーの変更
 
-Contact Us
+プライバシーポリシーを随時更新する場合があります。したがって、変更がある場合はこのページを定期的に確認することをお勧めします。このページに新しいプライバシーポリシーを掲載して、変更をお知らせします。これらの変更は、このページに投稿された直後に有効になります。
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at [App Contact informations].
+お問い合わせ
 
-This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator
+私のプライバシーポリシーについてご質問やご提案がありましたら、[アプリの連絡先情報]でお気軽にお問い合わせください。
+
+このプライバシーポリシーページは、privacypolicytemplate.netで作成され、App Privacy Policy Generatorによって変更/生成されます
