@@ -1,0 +1,2 @@
+# DrugKing
+privacy policy
